@@ -1,6 +1,12 @@
 # korea-kospi-news-dataframe
 simple python code which create data frame that contains news airticles about kospi stocks
 
+# Prerequisites
+
+- install [panda](https://pandas.pydata.org/pandas-docs/stable/install.html)
+- install python 2.7 
+
+
 # usage
 
 > import kospi as kospi
